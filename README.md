@@ -191,7 +191,7 @@ This project is licensed under the MIT License
 
 ## Deployment - Useful Links to facilitate viewing of project
 The URL of the deployed application:
-1.   https://github.com/Jeshikha/AstroQuiz
+1.   https://github.com/Lee-jr-81/AstroQuiz
 
 The URL of the GitHub repository:
 2.   https://jeshikha.github.io/AstroQuiz/     
